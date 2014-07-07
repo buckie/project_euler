@@ -9,3 +9,5 @@ Links below to iPython Notebook viewer for my answers.
 - [Link to problem 3](http://nbviewer.ipython.org/github/ajkim141/project_euler/blob/master/Problem3.ipynb)
 
 - [Link to problem 4](http://nbviewer.ipython.org/github/ajkim141/project_euler/blob/master/Problem4.ipynb)
+
+- [Link to problem 6](http://nbviewer.ipython.org/github/ajkim141/project_euler/blob/master/Problem6.ipynb)
